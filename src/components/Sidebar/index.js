@@ -10,7 +10,7 @@ export const Sidebar = ({ isOpen, toggle }) => {
             <SidebarWrapper>
                 <SidebarMenu>
                     <SidebarLink to="about" onClick={toggle}>Tietoa minusta</SidebarLink>
-                    <SidebarLink to="contact" onClick={toggle}>Ota yhteyttä</SidebarLink>
+                    <SidebarLink to="contactme" onClick={toggle}>Ota yhteyttä</SidebarLink>
                     <SidebarLink to="projects" onClick={toggle}>Projektit</SidebarLink>
                 </SidebarMenu>
             </SidebarWrapper>

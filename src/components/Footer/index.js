@@ -4,7 +4,7 @@ import { FaLinkedin } from '@react-icons/all-files/fa/FaLinkedin'
 import { FaTwitch } from '@react-icons/all-files/fa/FaTwitch'
 import { GiCat } from '@react-icons/all-files/gi/GiCat'
 import { animateScroll as scroll } from 'react-scroll'
-import { FooterContainer, FooterWrap, FooterLinksContainer, FooterLinksWrapper, FooterLinkItems, FooterLinkTitle, FooterLink, SocialMedia, SocialMediaWrap, SocialLogo, WebsiteRights, SocialIconLink, SocialIcons } from './FooterElements'
+import { FooterContainer, FooterWrap, FooterLinksContainer, FooterLinksWrapper, SocialMedia, SocialMediaWrap, SocialLogo, WebsiteRights, SocialIconLink, SocialIcons } from './FooterElements'
 
 const Footer = () => {
 

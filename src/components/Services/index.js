@@ -18,7 +18,7 @@ const Services = () => {
                     <ServicesH2>Discord.js bot</ServicesH2>
                 </ServicesCard>
                 <ServicesCard>
-                    <ServicesIcon src={Icon3}/>
+                    <ServicesIcon src={Icon3} onClick={() => {window.location.href="https://jaypeura.github.io/weather/"}}/>
                     <ServicesH2>Weather-app</ServicesH2>
                 </ServicesCard>
             </ServicesWrapper>

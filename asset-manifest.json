@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/jaypeura/static/css/main.b6ca3b85.chunk.css",
+    "main.js": "/jaypeura/static/js/main.0c7287ca.chunk.js",
+    "main.js.map": "/jaypeura/static/js/main.0c7287ca.chunk.js.map",
+    "runtime-main.js": "/jaypeura/static/js/runtime-main.28f4fe0d.js",
+    "runtime-main.js.map": "/jaypeura/static/js/runtime-main.28f4fe0d.js.map",
+    "static/js/2.fc03b646.chunk.js": "/jaypeura/static/js/2.fc03b646.chunk.js",
+    "static/js/2.fc03b646.chunk.js.map": "/jaypeura/static/js/2.fc03b646.chunk.js.map",
+    "index.html": "/jaypeura/index.html",
+    "static/css/main.b6ca3b85.chunk.css.map": "/jaypeura/static/css/main.b6ca3b85.chunk.css.map",
+    "static/js/2.fc03b646.chunk.js.LICENSE.txt": "/jaypeura/static/js/2.fc03b646.chunk.js.LICENSE.txt",
+    "static/media/calculator.2fd866ee.svg": "/jaypeura/static/media/calculator.2fd866ee.svg",
+    "static/media/catFriends.svg": "/jaypeura/static/media/catFriends.931bede6.svg",
+    "static/media/contact.svg": "/jaypeura/static/media/contact.df6cbe5b.svg",
+    "static/media/homevideo.922e4476.mp4": "/jaypeura/static/media/homevideo.922e4476.mp4",
+    "static/media/robot.e8678699.svg": "/jaypeura/static/media/robot.e8678699.svg",
+    "static/media/svg-1.svg": "/jaypeura/static/media/svg-1.40f1181a.svg",
+    "static/media/weather.41709da0.svg": "/jaypeura/static/media/weather.41709da0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28f4fe0d.js",
+    "static/js/2.fc03b646.chunk.js",
+    "static/css/main.b6ca3b85.chunk.css",
+    "static/js/main.0c7287ca.chunk.js"
+  ]
+}

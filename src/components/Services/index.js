@@ -10,7 +10,7 @@ const Services = () => {
             <ServicesH1>Projektit</ServicesH1>
             <ServicesWrapper>
                 <ServicesCard>
-                    <ServicesIcon src={Icon1} onClick={() => {window.location.href="https://github.com/jaypeura/calculator/"}}/>
+                    <ServicesIcon src={Icon1} onClick={() => {window.location.href="https://jaypeura.github.io/calculator/"}}/>
                     <ServicesH2>React calculator</ServicesH2>
                 </ServicesCard>
                 <ServicesCard>

@@ -11,8 +11,8 @@ const HeroSection = () => {
                 </VideoBG>
             </HeroBG>
             <HeroContent>
-                <HeroH1>Tervetuloa sivustolleni!</HeroH1>
-                <HeroP>- Jay</HeroP>
+                <HeroH1>Hei, olen Jay</HeroH1>
+                <HeroP>Ja tässä on nettisivuni.</HeroP>
             </HeroContent>
             
         </HeroContainer>

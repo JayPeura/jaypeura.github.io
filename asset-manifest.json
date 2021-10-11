@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.430610c3.chunk.css",
-    "main.js": "/static/js/main.306ea960.chunk.js",
-    "main.js.map": "/static/js/main.306ea960.chunk.js.map",
+    "main.js": "/static/js/main.8e564e0c.chunk.js",
+    "main.js.map": "/static/js/main.8e564e0c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.aa1ba6e8.js",
     "runtime-main.js.map": "/static/js/runtime-main.aa1ba6e8.js.map",
     "static/js/2.a7df9116.chunk.js": "/static/js/2.a7df9116.chunk.js",
@@ -13,6 +13,7 @@
     "static/media/calculator.2fd866ee.svg": "/static/media/calculator.2fd866ee.svg",
     "static/media/catFriends.svg": "/static/media/catFriends.931bede6.svg",
     "static/media/contact.svg": "/static/media/contact.df6cbe5b.svg",
+    "static/media/gamepad.1cd98617.svg": "/static/media/gamepad.1cd98617.svg",
     "static/media/homevideo.922e4476.mp4": "/static/media/homevideo.922e4476.mp4",
     "static/media/robot.e8678699.svg": "/static/media/robot.e8678699.svg",
     "static/media/svg-1.svg": "/static/media/svg-1.40f1181a.svg",
@@ -22,6 +23,6 @@
     "static/js/runtime-main.aa1ba6e8.js",
     "static/js/2.a7df9116.chunk.js",
     "static/css/main.430610c3.chunk.css",
-    "static/js/main.306ea960.chunk.js"
+    "static/js/main.8e564e0c.chunk.js"
   ]
 }

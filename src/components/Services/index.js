@@ -2,6 +2,7 @@ import React from 'react'
 import Icon1 from '../../images/calculator.svg'
 import Icon2 from '../../images/robot.svg'
 import Icon3 from '../../images/weather.svg'
+import Icon4 from '../../images/gamepad.svg'
 import { ServicesContainer, ServicesH1, ServicesWrapper, ServicesIcon, ServicesCard, ServicesH2} from './ServicesElements'
 
 const Services = () => {
@@ -21,6 +22,11 @@ const Services = () => {
                     <ServicesIcon src={Icon3} onClick={() => {window.location.href="https://jaypeura.github.io/weather/"}}/>
                     <ServicesH2>Weather-app</ServicesH2>
                 </ServicesCard>
+                <ServicesCard>
+                    <ServicesIcon src={Icon4} onClick={() => {window.location.href="https://jaypeura.github.io/AvoiderGame/"}}/>
+                    <ServicesH2>Avoider Game</ServicesH2>
+                </ServicesCard>
+                
             </ServicesWrapper>
             
         </ServicesContainer>

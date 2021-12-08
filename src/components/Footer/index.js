@@ -29,7 +29,7 @@ const Footer = () => {
                             <SocialIconLink href="//www.github.com/JayPeura" target="_blank" aria-label="GitHub">
                                 <FaGithub />
                             </SocialIconLink>
-                            <SocialIconLink href="//www.linkedin.com/in/jay-jenna-peura-0ba446185/" target="_blank" aria-label="LinkedIn">
+                            <SocialIconLink href="//www.linkedin.com/in/jay-peura-0ba446185/" target="_blank" aria-label="LinkedIn">
                                 <FaLinkedin />
                             </SocialIconLink>
                             <SocialIconLink href="//www.twitch.tv/felinejay" target="_blank" aria-label="Twitch">

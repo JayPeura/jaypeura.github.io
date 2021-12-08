@@ -20,6 +20,7 @@
 /.history
 /.vscode
 Gemfile
+/build
 Gemfile.lock
 
 npm-debug.log*

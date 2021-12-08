@@ -12,7 +12,7 @@ const HeroSection = () => {
             </HeroBG>
             <HeroContent>
                 <HeroH1>Hei, olen Jay</HeroH1>
-                <HeroP>Ja tässä on nettisivuni.</HeroP>
+                <HeroP>Ja tässä ovat nettisivuni.</HeroP>
             </HeroContent>
             
         </HeroContainer>

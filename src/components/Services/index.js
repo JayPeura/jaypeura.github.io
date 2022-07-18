@@ -12,8 +12,9 @@ import {
   ServicesCard,
   ServicesH2,
 } from "./ServicesElements";
+import { Button } from "../ButtonElements";
 
-const Services = () => {
+const Services = ({ primary, dark, dark2 }) => {
   return (
     <ServicesContainer id="services">
       <ServicesH1>Projektit</ServicesH1>
@@ -64,6 +65,19 @@ const Services = () => {
           <ServicesH2>Vue website</ServicesH2>
         </ServicesCard>
       </ServicesWrapper>
+      <Button
+        to="home"
+        smooth={true}
+        duration={500}
+        spy={true}
+        exact="true"
+        offset={-80}
+        primary={primary ? 1 : 0}
+        dark={dark ? 1 : 0}
+        dark2={dark2 ? 1 : 0}
+      >
+        Takaisin ylös
+      </Button>
     </ServicesContainer>
   );
 };

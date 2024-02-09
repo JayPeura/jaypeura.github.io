@@ -21,7 +21,7 @@ const Home = () => {
           </h1>
 
           <p className="home__description">
-            I am a 25-year-old woman from Tampere, Finland. I focus on front-end
+            I am a 26-year-old woman from Tampere, Finland. I focus on front-end
             development but I pretty much handle back-end as well. I am very
             passionate about programming and it shows from all my different
             projects!

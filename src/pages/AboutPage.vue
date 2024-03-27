@@ -40,19 +40,13 @@
             @click="maiqModal = true"
             >M'aiq the Liar</span
           >
-          and an under 1 year old German Shepherd dog Katerina "<span
-            class="kata"
-            title="Click me for a pic (;"
-            @click="kataModal = true"
-            >Kata</span
-          >"
         </q-tab-panel>
 
         <q-tab-panel name="history">
           <div class="text-h6 text-bold">History</div>
           I have always been excited about computers ever since my uncle and dad
           got me into it at a young age. I am a self-taught programmer (<b
-            >over 4 years</b
+            >over 5 years</b
           >
           as a hobby), more than 1 year of work experience and I am either
           practicing programming or searching for information about it almost

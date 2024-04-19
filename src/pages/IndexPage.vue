@@ -12,7 +12,7 @@
           <div class="contentContainer">
             <h4>
               <span class="greeting">Hello! I'm </span>
-              <span class="name">Jay Peura</span>
+              <span class="name">Jenna Peura</span>
             </h4>
           </div>
           <div class="contentContainer">

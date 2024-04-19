@@ -33,7 +33,7 @@
             Pets
             <span class="psst">(by clicking you can see them!!)</span>
           </div>
-          I have 2 pets; a 6-year-old tabby cat
+          I have a cat; a 7-year-old tabby cat
           <span
             class="maiq"
             title="Click me for a pic (;"

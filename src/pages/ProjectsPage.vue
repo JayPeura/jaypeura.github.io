@@ -23,31 +23,31 @@
 const items = [
   {
     title: "Discord Bot Valerie",
-    link: "https://github.com/JayPeura/ValerieBotV2.1",
+    link: "https://github.com/JennaPeura/ValerieBotV2.1",
     desc: "A neat little bot mostly for my own personal servers. She can play music, find and send gifs plus other fun things.",
     img: "images/Work1.png",
   },
   {
     title: "Starshifted SoMe site",
-    link: "https://github.com/JayPeura/starshifted",
+    link: "https://github.com/JennaPeura/starshifted",
     desc: "I made this a bit bigger project with Vue + Quasar to create a similar site to X (ex. Twitter)",
     img: "images/stars.jpg",
   },
   {
     title: '"Better YouTube"',
-    link: "https://github.com/JayPeura/BetterYouTube",
+    link: "https://github.com/JennaPeura/BetterYouTube",
     desc: "I made this to use an API to get YouTube videos to show on my personal page, essentially making my very own YouTube except it looked prettier than the actual YouTube (;",
     img: "images/ytclone.png",
   },
   {
     title: "Weather App",
-    link: "https://github.com/JayPeura/weather",
+    link: "https://github.com/JennaPeura/weather",
     desc: "Made this simple Weather App in 2021 to get into using APIs",
     img: "images/wapi.png",
   },
   {
     title: "Portfolio Website",
-    link: "https://github.com/JayPeura/jaypeura.github.io",
+    link: "https://github.com/JennaPeura/jennapeura.github.io",
     desc: "Basically; this very website.",
     img: "images/Work2.jpg",
   },

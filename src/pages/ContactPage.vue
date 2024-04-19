@@ -7,7 +7,7 @@
           <q-item-section avatar>
             <q-icon color="black" name="alternate_email" />
           </q-item-section>
-          <q-item-section>jay.peura@hotmail.com</q-item-section>
+          <q-item-section>jenna.peura@hotmail.com</q-item-section>
         </q-item>
         <q-item>
           <q-item-section avatar>
@@ -15,7 +15,7 @@
           </q-item-section>
           <q-item-section
             ><a
-              href="https://www.linkedin.com/in/jay-peura-0ba446185/"
+              href="https://www.linkedin.com/in/jenna-peura-0ba446185/"
               class="link"
               target="_blank"
               >LinkedIn</a

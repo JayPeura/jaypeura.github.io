@@ -1,4 +1,4 @@
-# Jay's portfolio (portfolio-vue)
+# Jenna's portfolio (portfolio-vue)
 
 New portfolio page with Vue
 
